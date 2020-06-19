@@ -1,0 +1,183 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-size: 10px; }
+
+  
+  .main-area {
+    background: url("../img/Group 3467.png") bottom left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; }
+    .main-area .container-fluid {
+      width: 88%; }
+      .main-area .container-fluid .row .left-top h2 {
+        font-size: 3.8rem;
+        font-family: "HelveticaNeueMedium", sans-serif;
+        color: #000;
+        line-height: 4.3rem;
+        font-weight: normal; }
+      .main-area .container-fluid .row .left-top select {
+        font-size: 2rem;
+        font-family: "HelveticaNeueRegular", sans-serif;
+        color: #000;
+        line-height: 2.3rem;
+        font-weight: normal;
+        padding: 1rem;
+        border: 1px solid #B7B7B7; }
+      .main-area .container-fluid .row .bottom-left .card {
+        padding-top: 2rem;
+        box-shadow: 0 0.6rem 1.2rem #0000001c; }
+        .main-area .container-fluid .row .bottom-left .card .card-body {
+          padding-left: 5rem; }
+          .main-area .container-fluid .row .bottom-left .card .card-body h4 {
+            font-size: 2rem;
+            font-family: "HelveticaNeueRegular", sans-serif;
+            color: #000;
+            line-height: 2.3rem;
+            font-weight: normal;
+            padding-top: 2rem; }
+          .main-area .container-fluid .row .bottom-left .card .card-body h5 {
+            font-size: 1.6rem;
+            font-family: "HelveticaNeueRegular", sans-serif;
+            color: #000;
+            line-height: 2.3rem;
+            font-weight: normal;
+            padding: 1rem 0; }
+          .main-area .container-fluid .row .bottom-left .card .card-body p {
+            font-size: 1.2rem;
+            font-family: "HelveticaNeueRegular", sans-serif;
+            color: #B7B7B7;
+            line-height: 1.4rem;
+            font-weight: normal;
+            padding: 1rem 0; }
+          .main-area .container-fluid .row .bottom-left .card .card-body .pop-icon {
+            width: 18px;
+            height: 19px;
+            display: inline-block; }
+          .main-area .container-fluid .row .bottom-left .card .card-body .pop {
+            font-size: 1.2rem;
+            font-family: "HelveticaNeueRegular", sans-serif;
+            color: #000;
+            line-height: 1.4rem;
+            font-weight: normal; }
+        .main-area .container-fluid .row .bottom-left .card .item-1 .xp {
+          padding-top: 2rem; }
+        .main-area .container-fluid .row .bottom-left .card .item-2 p {
+          padding-bottom: 1.1rem; }
+        .main-area .container-fluid .row .bottom-left .card .item-2 .text-center {
+          margin-top: 0.1rem; }
+        .main-area .container-fluid .row .bottom-left .card .item-2 .xp {
+          padding-top: 2rem; }
+        .main-area .container-fluid .row .bottom-left .card .item-3 .btn-secondary {
+          background: #DBDBDB;
+          border-color: #B7B7B7;
+          color: #000;
+          margin: 1rem 0; }
+        .main-area .container-fluid .row .bottom-left .card .item-3 h4 {
+          padding-top: 1rem; }
+        .main-area .container-fluid .row .bottom-left .card .item-3 p {
+          margin-bottom: 1.7rem; }
+        .main-area .container-fluid .row .bottom-left .card .item-3 .text-center {
+          margin-top: 0.4rem; }
+        .main-area .container-fluid .row .bottom-left .card .item-3 .xp {
+          padding-top: 3rem; }
+        .main-area .container-fluid .row .bottom-left .card .item-3 .other-text i {
+          color: #0BCBBC; }
+        .main-area .container-fluid .row .bottom-left .card .item-3 .other-text p {
+          color: #0BCBBC;
+          font-size: 1.2rem;
+          font-family: "HelveticaNeueRegular", sans-serif;
+          line-height: 1.4rem;
+          font-weight: normal; }
+
+  .other-text-2 i {
+    color: #0BCBBC; }
+  .other-text-2 p {
+    color: #0BCBBC;
+    font-size: 1.2rem;
+    font-family: "HelveticaNeueRegular", sans-serif;
+    line-height: 1.4rem;
+    font-weight: normal; }
+
+  .btn-secondary {
+    background: #DBDBDB;
+    border-color: #B7B7B7;
+    color: #000;
+    margin: 1rem 0; }
+
+  .card .card-body h4 {
+    font-size: 2rem;
+    font-family: "HelveticaNeueRegular", sans-serif;
+    color: #000;
+    line-height: 2.3rem;
+    font-weight: normal;
+    padding-top: 2rem; }
+
+  .right-top .row .col .top {
+    margin-bottom: 2.2rem; }
+    .right-top .row .col .top h2 {
+      font-size: 3.8rem;
+      font-family: "HelveticaNeueMedium", sans-serif;
+      color: #000;
+      line-height: 4.3rem;
+      font-weight: normal; }
+    .right-top .row .col .top .h-code {
+      padding-top: 1rem; }
+      .right-top .row .col .top .h-code i {
+        font-size: 2rem;
+        color: #0BCBBC; }
+      .right-top .row .col .top .h-code a {
+        text-decoration: none;
+        font-size: 2rem;
+        font-family: "HelveticaNeueRegular", sans-serif;
+        color: #0BCBBC;
+        line-height: 2.3rem; }
+  .right-top .row .col .load p {
+    font-size: 2rem;
+    font-family: "HelveticaNeueRegular", sans-serif;
+    color: #000;
+    line-height: 2.3rem;
+    padding: 2rem; }
+
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (max-width: 1600px) {
+    .main-area .container-fluid .row .bottom-left .card .card-body {
+      padding-left: 1rem; } }
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (max-width: 1200px) {
+    .main-area .container-fluid .row .bottom-left .card .item-2 .text-center img {
+      padding-bottom: 0 !important; }
+
+    .main-area .container-fluid .row .bottom-left .card .item-3 .text-center img {
+      padding-bottom: 0 !important; } }
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (max-width: 992px) {
+    .main-area .container-fluid .row .bottom-left .card {
+      margin-bottom: 1rem; }
+
+    html {
+      font-size: 13px; } }
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (max-width: 768px) {
+    .top {
+      margin-top: 1rem;
+      margin-bottom: 4rem !important; }
+
+    .right-top .row .col .top .h-code {
+      display: block !important;
+      padding-bottom: 1rem;
+      width: 100%; }
+
+    .right-top .row .col .top .h-code::after {
+      content: '';
+      display: block;
+      clear: both; } }
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (max-width: 480px) {
+    .float-right {
+      float: left !important; } }
+  /* Extra small devices (phones, 600px and down) */

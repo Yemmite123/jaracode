@@ -1,0 +1,98 @@
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .header {
+    height: 118vh; } }
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1200px) {
+  html {
+    scroll-behavior: smooth;
+    font-size: 7px; }
+
+  .header {
+    height: 88vh; } }
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+  html {
+    scroll-behavior: smooth;
+    font-size: 7px; }
+
+  .header {
+    height: 66vh; }
+
+  .header .top-row h1 {
+    font-size: 6rem;
+    width: 88%; }
+
+  .review .for-bg .container-fluid .card .card-img-overlay .carousel .carousel-item h1 {
+    font-size: 3rem; }
+
+  .header .top-row {
+    margin-top: 15rem; } }
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+  .header {
+    height: 55vh; }
+
+  .header .top-row {
+    margin-top: 6rem; }
+
+  .header .top-row h1 {
+    width: 70%;
+    font-size: 5rem; }
+
+  .header .top-row h6 {
+    width: 70%; }
+
+  html {
+    scroll-behavior: smooth;
+    font-size: 8px; }
+
+  .item-1,
+  .item-2,
+  .item-3 {
+    margin-left: 10rem; }
+
+  .retailers {
+    text-align: center; }
+
+  .retailers img {
+    width: 100%;
+    display: inline-block; }
+
+  .service .container-fluid .row .card .card-body h4 {
+    font-size: 6rem; }
+
+  .service .container-fluid .row .card .card-body p {
+    font-size: 2.6rem; }
+
+  .review .for-bg .container-fluid .card .card-img-overlay .carousel .carousel-item h1 {
+    line-height: 4rem; } }
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+  html {
+    font-size: 6px; } }
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 480px) {
+  .header {
+    height: 36vh; }
+
+  .header .top-row {
+    margin: 0; }
+
+  .clients .container-fluid .row .col h2 {
+    font-size: 5rem; }
+
+  .clients .container-fluid .row .col p {
+    font-size: 2rem; }
+
+  .footer-dark h3 {
+    font-size: 4rem; }
+
+  .footer-dark ul {
+    font-size: 3.5rem; }
+
+  .text-right {
+    text-align: center !important; } }
+/* Extra small devices (phones, 600px and down) */
+
+/*# sourceMappingURL=responsive.css.map */
